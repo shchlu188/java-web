@@ -23,3 +23,5 @@
 hs_err_pid*
 .idea
 /0403/login-demo/target
+/0404/my-shop/my-shop-web-admin/src/main/webapp/static/assets
+/0404/my-shop/my-shop-web-admin/*.iml
